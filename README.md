@@ -1,2 +1,2 @@
 # pig-game
-A Simple JavaScript Project
+A Simple Roll The Dice Game Using JavaScript
